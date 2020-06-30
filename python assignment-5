@@ -1,0 +1,9 @@
+PROGRAM TO READ AN TEXT FILE
+def file_read(fname):
+     txt=pen(fname)
+     print(txt.read())
+file_read('abc.txt')
+
+OUTPUT:-
+python Exercises
+java Exercises
